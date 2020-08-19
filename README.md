@@ -11,10 +11,6 @@
     - 原唯品会中间件研发工程师，参与应用框架，网关等研发
 - 专注于基础架构，中间件研发以及中台建设落地
 
-<p align="center">
-  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
-</p>
-
 ## 🔥 开源项目
 
  - [`Halo Framework`](https://xujin.org/projects/halo/overview/)是将DDD，洋葱架构，整洁架构，读写分离架构有机整合一起，基于业务身份+扩展点的设计思想，采用应用内部流程编排的方式形成可复用的业务资产库。最终架构落地达到业务与业务隔离，业务与平台隔离，管理域与运行域分开，帮助企业快速落地业务中台。
