@@ -1,8 +1,3 @@
-<p align="center">
-  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
-</p>
-
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=softwareking&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## 👨‍🚒 Xu Jin(花名: 玹霖) | Gavin Xu
@@ -15,6 +10,10 @@
     - 原阿里资深工程师
     - 原唯品会中间件研发工程师，参与应用框架，网关等研发
 - 专注于基础架构，中间件研发以及中台建设落地
+
+<p align="center">
+  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
+</p>
 
 ## 🔥 开源项目
 
