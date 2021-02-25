@@ -1,6 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=softwareking&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=softwareking&theme=tokyonight&show_icons=true)](https://github.com/softwareking)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=softwareking&theme=tokyonight&show_icons=true" />
 
 ## 👨‍🚒 Xu Jin(花名: 玹霖) | Gavin Xu
 
