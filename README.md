@@ -1,5 +1,3 @@
-<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=SoftwareKing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareKing&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
 ## 👨‍🚒 Xu Jin(花名: 玹霖) | Gavin Xu
 
 - 网   站: http://xujin.org
@@ -14,6 +12,8 @@
     - 2015年开始研究Service Mesh版RPC框架,代表作品Phenix(凤凰)RPC框架
     - 具有从0到1落地全链路压测的经验,代表作品GodTest, 内部代号天测，神测系统。
     - 2015年开始研究应用框架，网关，代码生成器具有多家互联网公司落地经验
+  
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=SoftwareKing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareKing&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## 🔥 开源项目
 
