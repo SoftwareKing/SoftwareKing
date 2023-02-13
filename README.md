@@ -5,9 +5,6 @@
 - 著   作: 《重新定义Spring Cloud实战》[`京东购买`](https://item.jd.com/12447280.html) [`当当购买`](http://product.dangdang.com/25348282.html)
 - 经   历：中间件/基础架构 | 业务架构 | 应用架构 | 中台架构
     - Spring Cloud中国社区创始人(http://springcloud.cn)
-    - 原阿里资深工程师
-    - 原唯品会中间件研发工程师，参与应用框架，网关等研发
-    - 具有从0-1组建基础架构团队的落地经验，研发中间件产品0故障，曾管理团队20-30+
 - 专注于基础架构，中间件研发以及中台建设落地
     - 2015年开始研究Service Mesh版RPC框架,代表作品OSM(可观测性的Service Mesh) RPC框架
     - 具有从0到1落地全链路压测的经验,代表作品GodTest, 内部代号天测，神测系统。
