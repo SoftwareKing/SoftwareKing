@@ -3,7 +3,7 @@
 - 网   站: http://xujin.org
 - 微   信: Software_King
 - 著   作: 《重新定义Spring Cloud实战》[`京东购买`](https://item.jd.com/12447280.html) [`当当购买`](http://product.dangdang.com/25348282.html)
-- 经   历：中间件/基础架构 | 业务架构 | 应用架构 | 中台架构
+- 经   历：中间件与基础架构 | 业务架构 | 应用架构 | 中台架构 ｜研发效能
     - Grail Stack社区创始人(http://grailstack.com)
     - Spring Cloud中国社区创始人(http://springcloud.cn)
 - 专注于基础架构，中间件研发以及中台建设落地
